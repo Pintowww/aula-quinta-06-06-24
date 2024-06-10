@@ -6,3 +6,5 @@ def test_soma():
 def test_soma2():
     assert soma(2, 3) == 5
 
+def test_sub():
+    assert sub(2, 1) == 1
